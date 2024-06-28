@@ -1,6 +1,9 @@
 # Modelo_precios_auto
+<p align="center">
+  <img src="https://github.com/JuankTS/Modelo_precios_auto/assets/166193432/e08a3f23-e573-45a9-87ed-32a76b97f2c7" alt="image">
+</p>
 
-![image](https://github.com/JuankTS/Modelo_precios_auto/assets/166193432/e08a3f23-e573-45a9-87ed-32a76b97f2c7)
+
 
 
 Este proyecto tiene como objetivo implementar un modelo de ML que nos ayude a predecir los precios de distintos autos que se encentran en nuestro dataset.
